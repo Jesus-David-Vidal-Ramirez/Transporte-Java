@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6/04/2021, 03:49:25 PM
+    Author     : JESÚS
+*/
+
+html { 
+    background: url(https://s1.1zoom.me/big0/384/IVECO_Bus_Trucks_Front_581490_1280x720.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+     padding-bottom: 90px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.title{
+    color: lightgoldenrodyellow;
+    line-height: 50px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    position: relative;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 40px;
+    color: #ddd;
+    text-shadow: 3px 3px 10px #000;
+    padding-top: 30px;
+    
+}
+
+
+.contenido{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    padding-top: 239px;
+    text-align: center;
+    font-size: 30px;
+    color: Black;
+    text-shadow: 2px 2px #5B83B9;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.table{
+    margin: auto;
+   
+}
+
+.Eliminar{
+    color:red;
+    background: red;
+}
+
